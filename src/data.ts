@@ -80,7 +80,7 @@ export const highlights: Highlight[] = [
 export const blogPosts: BlogPost[] = [
   {
     id: "gpu-mode-kernels-top-10",
-    title: "Top 10 in GPU MODE: My Approach to the GPU MODE Kernel Competition",
+    title: "Top 10 in Nvidia x GPU_MODE: My Approach to the Kernel Competition",
     date: "2026-02-21",
     excerpt: "Coming soon.",
     tags: ["GPU", "CUDA", "Kernels"],
