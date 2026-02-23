@@ -21,7 +21,6 @@ export default function Home() {
           systems, GPU kernels and love competing in ML competitions.
         </p>
         <p className="text-[15px] text-zinc-400 leading-relaxed max-w-2xl">
-          I used to work at Analogport on semiconductors using AI.
           While completing my degree at Boston University, I wrote my thesis on
           test-time fine-tuning with diverse rewards using Conditional Variational Reward Models under{' '}
           <a
