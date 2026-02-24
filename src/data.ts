@@ -18,14 +18,8 @@ export const highlights: Highlight[] = [
   {
     date: "Feb 2026",
     title: "Nvidia × GPU MODE Kernels Competition",
-    result: "Placed top 10.",
+    result: "Placed top 10. Kernels faster than CUTLASS for GEMV, DeepGEMM, and GroupGEMM on custom shapes.",
     url: "https://www.gpumode.com/leaderboard/730?tab=rankings",
-  },
-  {
-    date: "Feb 2026",
-    title: "CUTLASS Kernel Benchmarks",
-    result: "Wrote kernels faster than CUTLASS for GEMV, DeepGEMM, and GroupGEMM on custom shapes.",
-    url: "https://github.com/Naturalseeker22",
   },
   {
     date: "Oct 2025",
