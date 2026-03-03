@@ -63,15 +63,21 @@ export const highlights: Highlight[] = [
     url: "https://www.kaggle.com/certification/competitions/naturalseeker/ai-mathematical-olympiad-prize",
   },
   {
-    date: "Mar 2024",
-    title: "Optiver — Trading at the Close",
-    result: "Placed top 10%.",
+    date: "May 2024",
+    title: "Home Credit — Credit Risk Model Stability",
+    result: "Placed top 10% worldwide.",
     url: "https://www.kaggle.com/naturalseeker",
   },
   {
     date: "Apr 2024",
     title: "LLM Prompt Recovery Challenge",
-    result: "Placed top 10%.",
+    result: "Placed top 10% worldwide.",
+    url: "https://www.kaggle.com/naturalseeker",
+  },
+  {
+    date: "Mar 2024",
+    title: "Optiver — Trading at the Close",
+    result: "Placed top 10% worldwide.",
     url: "https://www.kaggle.com/naturalseeker",
   },
   {
