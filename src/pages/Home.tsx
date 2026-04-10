@@ -17,30 +17,7 @@ export default function Home() {
       {/* Bio */}
       <section className="space-y-4">
         <p className="text-[15px] text-zinc-300 leading-relaxed max-w-2xl">
-          I'm currently an AI engineer at a startup. I do ML
-          systems, GPU kernels and love competing in ML competitions.
-        </p>
-        <p className="text-[15px] text-zinc-400 leading-relaxed max-w-2xl">
-          While completing my degree at Boston University, I wrote my thesis on
-          test-time fine-tuning with diverse rewards using Conditional Variational Reward Models under{' '}
-          <a
-            href="https://eshed1.github.io/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-emerald-400 border-b border-emerald-400/30 hover:border-emerald-400 transition-colors"
-          >
-            Professor Eshed Ohn-Bar
-          </a>{' '}
-          and collaborated with{' '}
-          <a
-            href="https://www.leedokyun.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-emerald-400 border-b border-emerald-400/30 hover:border-emerald-400 transition-colors"
-          >
-            Professor Dokyun (DK) Lee
-          </a>{' '}
-          Before that, I worked on deep learning for audio data.
+          I do ML systems, GPU kernels and love competing in ML competitions.
         </p>
       </section>
 
